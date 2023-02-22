@@ -1,0 +1,9 @@
+A = int(input("Enter the num " ))
+B = int(input("Enter the num " ))
+C = int(input("Enter the num " ))
+if  A>B   and   A>C :
+    print("A is the biggest ")
+elif B>A and   B>C :
+    print("B is the biggest ")
+else :
+    print("C is the biggest")
